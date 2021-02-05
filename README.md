@@ -1,3 +1,4 @@
+# Pagina web pizzeria 🍝🍕
 
 Creé esta página web para una Pizzeria;  utilicé HTML, CSS, Bootstrap y jQuery. Es un diseño adaptable a diferentes tamaños de pantallas  y cuenta con elegantes animaciones.
 
